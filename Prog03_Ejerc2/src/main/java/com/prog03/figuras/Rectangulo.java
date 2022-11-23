@@ -6,7 +6,7 @@ package com.prog03.figuras;
 
 /**
  *
- * @author hecto
+ * @author pinyonet
  */
 public class Rectangulo { 
     
