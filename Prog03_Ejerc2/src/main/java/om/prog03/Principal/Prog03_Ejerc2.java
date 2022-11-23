@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author hecto
+ * @author pinyonet
  */
 public class Prog03_Ejerc2 {
 
